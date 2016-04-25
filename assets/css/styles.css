@@ -101,6 +101,19 @@ i.fa-twitter-square:focus{
 	color:#FF9A30;
 }
 
+i.fa-linkedin-square {
+	color:white;
+}
+
+i.fa-linkedin-square:hover{
+	color:#FF9A30;
+
+}
+
+i.fa-linkedin-square:focus{
+	color:#FF9A30;
+}
+
 
 .justify-align{
 	text-align:justify;
